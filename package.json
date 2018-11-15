@@ -2,7 +2,7 @@
   "name": "purrweb-extension-pack",
   "displayName": "Purrweb Extension Pack",
   "description": "Purrweb VS Code extensions for JS development.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "supostat",
   "engines": {
       "vscode": "^1.29.0"
