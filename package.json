@@ -1,0 +1,52 @@
+{
+  "name": "purrweb-extension-pack",
+  "displayName": "Purrweb Extension Pack",
+  "description": "Purrweb VS Code extensions for JS development.",
+  "version": "0.0.1",
+  "publisher": "supostat",
+  "engines": {
+      "vscode": "^1.29.0"
+  },
+  "icon": "nodejs-dark-icon.png",
+  "galleryBanner": {
+      "color": "#333333",
+      "theme": "dark"
+  },
+  "keywords": [
+      "node",
+      "nodejs",
+      "javascript",
+      "reactnative"
+  ],
+  "categories": [
+      "Extension Packs"
+  ],
+  "repository": {
+      "url": "https://github.com/supostat/purrweb-extension-pack"
+  },
+  "homepage": "https://github.com/supostat/purrweb-extension-pack",
+  "bugs": {
+      "url": "https://github.com/supostat/purrweb-extension-pack/issues"
+  },
+  "extensionDependencies": [
+      "akamud.vscode-theme-onedark",
+      "formulahendry.auto-close-tag",
+      "formulahendry.auto-rename-tag",
+      "coenraads.bracket-pair-colorizer-2",
+      "streetsidesoftware.code-spell-checker",
+      "peterjausovec.vscode-docker",
+      "mikestead.dotenv",
+      "dsznajder.es7-react-js-snippets",
+      "dbaeumer.vscode-eslint",
+      "donjayamanne.githistory",
+      "eamodio.gitlens",
+      "shd101wyy.markdown-preview-enhanced",
+      "rebornix.ruby",
+      "wayou.vscode-todo-highlight",
+      "ms-vsliveshare.vsliveshare",
+      "file-icons.file-icons",
+      "christian-kohler.path-intellisense",
+      "christian-kohler.npm-intellisense",
+      "mgmcdermott.vscode-language-babel"
+  ]
+}
