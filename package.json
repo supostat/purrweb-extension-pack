@@ -7,7 +7,7 @@
   "engines": {
       "vscode": "^1.29.0"
   },
-  "icon": "nodejs-dark-icon.png",
+  "icon": "purrweb-icon.png",
   "galleryBanner": {
       "color": "#333333",
       "theme": "dark"
