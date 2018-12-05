@@ -47,6 +47,9 @@
       "file-icons.file-icons",
       "christian-kohler.path-intellisense",
       "christian-kohler.npm-intellisense",
-      "mgmcdermott.vscode-language-babel"
+      "mgmcdermott.vscode-language-babel",
+      "cssho.vscode-svgviewer",
+      "kisstkondoros.vscode-gutter-preview",
+      "techer.open-in-browser"
   ]
 }
